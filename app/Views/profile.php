@@ -14,7 +14,7 @@
         <div class="teks">
             <p>Nama: <?= $nama ?></p>
             <p>NPM: <?= $npm ?></p>
-            <p>Kelas: <?= $kelas ?></p>
+            <p>Kelas: <?= $id_kelas ?></p>
         </div>
     </div>
 </body>
